@@ -1,7 +1,9 @@
 ![alt text](IMG_20200918_113835_850.png)
-### Hi there 👋 DevOps Rob here 👨🏿‍💻
+### Hi 👋 DevOps Rob here 👨🏿‍💻
 
 I'm a Senior Developer Advocate who loves building, breaking and securing things.
+
+Currently working at ![alt text]()
 
 <!--
 **devops-rob/devops-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

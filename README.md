@@ -4,6 +4,10 @@
 ### About me
 I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advocate at  ![alt text](HashiCorp_Logomark_Black_RGB.png) residing in UK 🇬🇧. I'm a Frequent speaker 🗣 and a public learner 📝.
 
+### Currently working on
+
+- [Target CLI][https://github.com/target-cli/target]
+
 ### Fun facts
 
 - Music lover 🎵 🎶

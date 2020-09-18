@@ -1,20 +1,17 @@
 ![alt text](git-banner.png)
-### Hi 👋 DevOps Rob here 👨🏿‍💻
 [![Twitter Follow](https://img.shields.io/twitter/follow/devops_rob?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
 
-I'm a Senior Developer Advocate who loves building 🧱, breaking 🔨 and securing 🔐 things. 
+### About me
+I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advocate at  ![alt text](HashiCorp_Logomark_Black_RGB.png) residing in UK 🇬🇧. I'm a Frequent speaker 🗣 and a public learner 📝.
 
-Currently working at   ![alt text](HashiCorp_Logomark_Black_RGB.png)
+### Fun facts
 
-- Frequent speaker 🗣 and public learner 📝
-- I'm from 🇬🇭 
-- Reside in 🇬🇧
 - Music lover 🎵 🎶
 - Fast Car enthusiast 🏎
 - Foodie 🍲
 - Cognac connoisseur 🥃
 
-### ✍🏿 Blog ✍🏿
+## ✍🏿 Blog ✍🏿
 I write a lot of blog articles, some of which can be found [here](https://www.devopsrob.com/resources/).  I talk a lot about Vault and security in the Software Development Lifecycle.
 <!--
 **devops-rob/devops-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

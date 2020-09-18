@@ -2,7 +2,7 @@
 ### Hi 👋 DevOps Rob here 👨🏿‍💻
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40devops_rob)](https://twitter.com/devops_rob)
 
-I'm a Senior Developer Advocate who loves building, breaking and securing things. I'm from 🇬🇭 and reside in 🇬🇧
+I'm a Senior Developer Advocate who loves building🧱, breaking🔨 and securing🔐 things. Frequent speaker 🗣 and. public learner I'm from 🇬🇭 and reside in 🇬🇧. Music lover 🎵🎶. Fast Car enthusiast🏎. Foodie🍲. Cognac connoisseur 🥃
 
 Currently working at ![alt text](HashiCorp_PrimaryLogo_Black_RGB.png)
 

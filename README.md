@@ -6,7 +6,7 @@ I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advo
 
 ### Currently working on
 
-- [Target CLI][https://github.com/target-cli/target]
+- [Target CLI](https://github.com/target-cli/target)
 
 ### Fun facts
 

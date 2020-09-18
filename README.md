@@ -1,3 +1,4 @@
+![alt text](image.jpg)
 ### Hi there 👋 DevOps Rob here 👨🏿‍💻
 
 I'm a Senior Developer Advocate who loves building, breaking and securing things.

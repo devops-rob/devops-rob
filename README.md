@@ -1,4 +1,6 @@
-### Hi there 👋 DevOps Rob here
+### Hi there 👋 DevOps Rob here 👨🏿‍💻
+
+I'm a Senior Developer Advocate who loves building, breaking and securing things.
 
 <!--
 **devops-rob/devops-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

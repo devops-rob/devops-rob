@@ -1,6 +1,6 @@
 ![alt text](git-banner.png)
 ### Hi 👋 DevOps Rob here 👨🏿‍💻
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40devops_rob)](https://twitter.com/devops_rob)
+[![Twitter Follow](https://img.shields.io/twitter/follow/devops_rob?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
 
 I'm a Senior Developer Advocate who loves building 🧱, breaking 🔨 and securing 🔐 things. 
 

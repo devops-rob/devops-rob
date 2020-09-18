@@ -7,7 +7,7 @@ I'm a Senior Developer Advocate who loves building, breaking and securing things
 Currently working at ![alt text](HashiCorp_PrimaryLogo_Black_RGB.png)
 
 ### ✍🏿Blog✍🏿
-I write a lot of blog articles, some of which can be found [here](https://www.devopsrob.com)
+I write a lot of blog articles, some of which can be found [here](https://www.devopsrob.com/resources/)
 <!--
 **devops-rob/devops-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

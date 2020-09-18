@@ -1,4 +1,4 @@
-![alt text](dor-small.png)
+![alt text](dor-extra-small.png)
 ### Hi 👋 DevOps Rob here 👨🏿‍💻
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40devops_rob)](https://twitter.com/devops_rob)
 

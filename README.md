@@ -11,7 +11,7 @@ Fast Car enthusiast 🏎
 Foodie 🍲
 Cognac connoisseur 🥃
 
-Currently working at ![alt text](HashiCorp_Logomark_Black_RGB.png)
+Currently working at   ![alt text](HashiCorp_Logomark_Black_RGB.png)
 
 ### ✍🏿 Blog ✍🏿
 I write a lot of blog articles, some of which can be found [here](https://www.devopsrob.com/resources/)

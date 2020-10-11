@@ -3,9 +3,10 @@
 [![Website](https://img.shields.io/website?label=devopsrob.com&style=for-the-badge&url=https%3A%2F%2Fwww.devopsrob.com)](https://www.devopsrob.com)
 
 ### About me
+
 I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advocate at  ![alt text](HashiCorp_Logomark_Black_RGB.png) residing in UK 🇬🇧. I'm a Frequent speaker 🗣 and a public learner 📝.
 
-### Opensource contributions
+### Open source contributor
 
 - [Vault](https://github.com/hashicorp/vault)
 - [Consul](https://github.com/hashicorp/consul)
@@ -13,6 +14,7 @@ I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advo
 ### Currently working on
 
 - [Target CLI](https://github.com/target-cli/target)
+- [Vault Secrets Engine Terraform Module](https://github.com/devops-rob/terraform-vault-secrets-engines)
 - Writing a book about deploying Vault at scale
 
 ### Fun facts

@@ -1,5 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/devops_rob?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
-
 ### Hey, I'm Rob 👋
 
 Infrastructure and platform engineer focused on developer tooling, schedulers and distributed systems, with a particular obsession for building great developer experiences.
@@ -12,7 +10,7 @@ Complex systems don't have to be complicated to use.
 
 I'm particularly interested in Nomad, platform engineering, deployment systems, networking and developer infrastructure.
 
-[![X Follow](https://img.shields.io/twitter/follow/devops_rob)]
+![X Follow](https://img.shields.io/twitter/follow/devops_rob)
 
 
 ### What I'm building

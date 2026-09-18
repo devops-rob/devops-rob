@@ -1,14 +1,49 @@
-![alt text](git-banner.png)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devops_rob?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
-[![Website](https://img.shields.io/website?label=iam.devopsrob.com&style=for-the-badge&url=https%3A%2F%2Fiam.devopsrob.com)](https://iam.devopsrob.com)
 
-### About me
+### Hey, I'm Rob 👋
 
-I'm a software engineer, maintainer of [the TerraCurl project](https://terracurl.com), frequent speaker 🗣 and a public learner 📝.
+Infrastructure and platform engineer focused on developer tooling, schedulers and distributed systems, with a particular obsession for building great developer experiences.
 
-### Fun facts
+Complex systems don't have to be complicated to use.
 
-- Music lover 🎵 🎶
-- Fast Car enthusiast 🏎
-- Foodie 🍲
-- Cognac connoisseur 🥃
+- Co-founder of [Nomatron](https://nomatron.io) — building deployment and operational tooling for HashiCorp Nomad
+- Former HashiCorp engineer — spent ~6 years working in the HashiCorp ecosystem
+- Maintainer of the [TerraCurl project](https://terracurl.com)
+
+I'm particularly interested in Nomad, platform engineering, deployment systems, networking and developer infrastructure.
+
+[![https://img.shields.io/twitter/follow/devops_rob](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
+
+
+### What I'm building
+
+#### [Nomatron](https://nomatron.io)
+
+Nomatron is a deployment and operations platform for teams running HashiCorp Nomad.
+
+The goal is simple: make operating Nomad at scale easier without getting in the way of what makes Nomad great.
+
+### Open source
+
+I enjoy building tools that remove friction from infrastructure workflows
+
+#### TerraCurl
+
+[TerraCurl](https://terraurl.com) is a Terraform provider for making managed HTTP requests.
+
+#### vault-unsealer
+
+[Vault Unsealer](https://github.com/devops-rob/vault-unsealer) automates the unsealing of HashiCorp Vault when auto-unseal options aren't feasible.
+
+#### boundary-census
+
+[Boundary Census](https://github.com/devops-rob/boundary-census) registers HashiCorp Nomad jobs as targets in HashiCorp Boundary
+
+### Outside of code
+
+- Music lover 🎵
+- F1 & fast cars 🏎️
+- Foodie 🍽️
+- Cognac enthusiast 🥃
+- Fountain pens ✒️
+- Watches ⌚

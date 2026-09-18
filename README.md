@@ -31,11 +31,11 @@ I enjoy building tools that remove friction from infrastructure workflows
 
 [TerraCurl](https://terraurl.com) is a Terraform provider for making managed HTTP requests.
 
-#### vault-unsealer
+#### Vault Unsealer
 
 [Vault Unsealer](https://github.com/devops-rob/vault-unsealer) automates the unsealing of HashiCorp Vault when auto-unseal options aren't feasible.
 
-#### boundary-census
+#### Boundary Census
 
 [Boundary Census](https://github.com/devops-rob/boundary-census) registers HashiCorp Nomad jobs as targets in HashiCorp Boundary
 

@@ -27,6 +27,8 @@ I enjoy building tools that remove friction from infrastructure workflows
 
 #### TerraCurl
 
+![Terraform Provider Downloads](https://img.shields.io/terraform/provider/dt/3168?style=for-the-badge&labelColor=%237B42BC)
+
 [TerraCurl](https://terraurl.com) is a Terraform provider for making managed HTTP requests.
 
 #### vault-unsealer

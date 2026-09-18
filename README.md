@@ -12,7 +12,7 @@ Complex systems don't have to be complicated to use.
 
 I'm particularly interested in Nomad, platform engineering, deployment systems, networking and developer infrastructure.
 
-[![https://img.shields.io/twitter/follow/devops_rob](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
+[![X Follow](https://img.shields.io/twitter/follow/devops_rob)]
 
 
 ### What I'm building
